@@ -1,0 +1,382 @@
+[
+  {
+    "id": "men-1",
+    "name": "Oversized Bomber",
+    "collection": "men",
+    "category": "OUTERWEAR",
+    "price": 12900,
+    "originalPrice": null,
+    "image": "/images/products/oversized-bomber.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "men-2",
+    "name": "Slim Chinos",
+    "collection": "men",
+    "category": "BOTTOMS",
+    "price": 7500,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "men-3",
+    "name": "Graphic Hoodie",
+    "collection": "men",
+    "category": "TOPS",
+    "price": 8900,
+    "originalPrice": null,
+    "image": "/images/products/graphic-hoodie.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "men-4",
+    "name": "White Linen Shirt",
+    "collection": "men",
+    "category": "TOPS",
+    "price": 5500,
+    "originalPrice": null,
+    "image": "/images/products/white-linen-shirt.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "men-5",
+    "name": "Cargo Shorts",
+    "collection": "men",
+    "category": "BOTTOMS",
+    "price": 6500,
+    "originalPrice": null,
+    "image": "/images/products/cargo-shorts.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "men-6",
+    "name": "Leather Chelsea Boots",
+    "collection": "men",
+    "category": "SHOES",
+    "price": 17900,
+    "originalPrice": null,
+    "image": "/images/products/chelsea-boots.jpg",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "men-7",
+    "name": "Dad Cap",
+    "collection": "men",
+    "category": "ACCESSORIES",
+    "price": 2500,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["One size"]
+  },
+  {
+    "id": "men-8",
+    "name": "Knit Sweater",
+    "collection": "men",
+    "category": "TOPS",
+    "price": 9500,
+    "originalPrice": null,
+    "image": "/images/products/knit-sweater.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-1",
+    "name": "Satin Slip Dress",
+    "collection": "women",
+    "category": "DRESSES",
+    "price": 9900,
+    "originalPrice": null,
+    "image": "/images/products/satin-slip-dress.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-2",
+    "name": "Oversized Blazer",
+    "collection": "women",
+    "category": "OUTERWEAR",
+    "price": 14500,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-3",
+    "name": "Ribbed Co-ord Set",
+    "collection": "women",
+    "category": "TOPS",
+    "price": 8900,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-4",
+    "name": "Wide Leg Jeans",
+    "collection": "women",
+    "category": "BOTTOMS",
+    "price": 11900,
+    "originalPrice": null,
+    "image": "/images/products/wide-leg-jeans.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-5",
+    "name": "Puffer Vest",
+    "collection": "women",
+    "category": "OUTERWEAR",
+    "price": 10900,
+    "originalPrice": null,
+    "image": "/images/products/puffer-vest.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-6",
+    "name": "Platform Loafers",
+    "collection": "women",
+    "category": "SHOES",
+    "price": 13500,
+    "originalPrice": null,
+    "image": "/images/products/platform-loafers.jpg",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "women-7",
+    "name": "Crop Cardigan",
+    "collection": "women",
+    "category": "TOPS",
+    "price": 7500,
+    "originalPrice": null,
+    "image": "/images/products/crop-cardigan.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "women-8",
+    "name": "Mini Skirt",
+    "collection": "women",
+    "category": "BOTTOMS",
+    "price": 5900,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-1",
+    "name": "Puffer Jacket",
+    "collection": "sale",
+    "category": "OUTERWEAR",
+    "price": 9000,
+    "originalPrice": 18000,
+    "image": "/images/products/puffer-jacket.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-2",
+    "name": "Maxi Dress",
+    "collection": "sale",
+    "category": "DRESSES",
+    "price": 6000,
+    "originalPrice": 12000,
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-3",
+    "name": "Oversized Hoodie",
+    "collection": "sale",
+    "category": "TOPS",
+    "price": 5100,
+    "originalPrice": 8500,
+    "image": "/images/products/oversized-hoodie.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-4",
+    "name": "Leather Sneakers",
+    "collection": "sale",
+    "category": "SHOES",
+    "price": 11200,
+    "originalPrice": 16000,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "sale-5",
+    "name": "Cargo Pants",
+    "collection": "sale",
+    "category": "BOTTOMS",
+    "price": 5100,
+    "originalPrice": 7900,
+    "image": "/images/products/cargo-pants.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-6",
+    "name": "Sports Bra",
+    "collection": "sale",
+    "category": "TOPS",
+    "price": 2400,
+    "originalPrice": 3500,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-7",
+    "name": "Windbreaker",
+    "collection": "sale",
+    "category": "OUTERWEAR",
+    "price": 7100,
+    "originalPrice": 9500,
+    "image": "https://images.unsplash.com/photo-1520975661595-6453be3f7070?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "sale-8",
+    "name": "Chunky Trainers",
+    "collection": "sale",
+    "category": "SHOES",
+    "price": 11100,
+    "originalPrice": 13900,
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "new-1",
+    "name": "Oversized Hoodie",
+    "collection": "new",
+    "category": "TOPS",
+    "price": 500,
+    "originalPrice": 6500,
+    "image": "/images/products/street-hoodie.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "new-2",
+    "name": "Cargo Pants",
+    "collection": "new",
+    "category": "BOTTOMS",
+    "price": 7900,
+    "originalPrice": 10500,
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "new-3",
+    "name": "Leather Sneakers",
+    "collection": "new",
+    "category": "SHOES",
+    "price": 11900,
+    "originalPrice": 15900,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "new-4",
+    "name": "Sports Bra",
+    "collection": "new",
+    "category": "TOPS",
+    "price": 3500,
+    "originalPrice": 4800,
+    "image": "/images/products/sports-bra.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "new-5",
+    "name": "Windbreaker",
+    "collection": "new",
+    "category": "OUTERWEAR",
+    "price": 9500,
+    "originalPrice": 12500,
+    "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "new-6",
+    "name": "Ribbed Tank",
+    "collection": "new",
+    "category": "TOPS",
+    "price": 2900,
+    "originalPrice": 3900,
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "new-7",
+    "name": "Chunky Trainers",
+    "collection": "new",
+    "category": "SHOES",
+    "price": 13900,
+    "originalPrice": 17900,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "new-8",
+    "name": "Pleated Trousers",
+    "collection": "new",
+    "category": "BOTTOMS",
+    "price": 8900,
+    "originalPrice": 11900,
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "trending-1",
+    "name": "Graphic Tee",
+    "collection": "trending",
+    "category": "STREETWEAR",
+    "price": 3900,
+    "originalPrice": null,
+    "image": "/images/products/graphic-tee.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "trending-2",
+    "name": "Baggy Denim",
+    "collection": "trending",
+    "category": "STREETWEAR",
+    "price": 9900,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1582418702059-97ebafb35d09?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "trending-3",
+    "name": "Seamless Leggings",
+    "collection": "trending",
+    "category": "ACTIVEWEAR",
+    "price": 6500,
+    "originalPrice": null,
+    "image": "/images/products/seamless-leggings.jpg",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "trending-4",
+    "name": "Training Shorts",
+    "collection": "trending",
+    "category": "ACTIVEWEAR",
+    "price": 4500,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["XS", "S", "M", "L", "XL"]
+  },
+  {
+    "id": "trending-5",
+    "name": "Air Runner",
+    "collection": "trending",
+    "category": "FOOTWEAR",
+    "price": 14900,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  },
+  {
+    "id": "trending-6",
+    "name": "Platform Boots",
+    "collection": "trending",
+    "category": "FOOTWEAR",
+    "price": 12900,
+    "originalPrice": null,
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=640&q=80",
+    "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44"]
+  }
+]
