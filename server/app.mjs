@@ -99,8 +99,24 @@ export function createApp({
   );
   app.use(express.json({ limit: "16kb" }));
   app.use("/api", (req, res, next) => {
-    if (req.method === "POST" && req.get("origin") !== origin)
-      return res.status(403).json({ error: "Invalid request origin." });
+    const reqOrigin = req.get("origin");
+    if (req.method === "POST") {
+      const allowedOrigins = new Set(
+        [
+          origin,
+          process.env.APP_URL,
+          "https://aalan.store",
+          "https://www.aalan.store",
+          "https://aalan.vercel.app",
+          process.env.VERCEL_PROJECT_PRODUCTION_URL
+            ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+            : null,
+          process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : null,
+        ].filter(Boolean),
+      );
+      if (!reqOrigin || !allowedOrigins.has(reqOrigin))
+        return res.status(403).json({ error: "Invalid request origin." });
+    }
     next();
   });
   app.post("/api/checkout", async (req, res, next) => {
