@@ -108,6 +108,7 @@ export function createApp({
           "https://aalan.store",
           "https://www.aalan.store",
           "https://aalan.vercel.app",
+          "https://aalan-gamma.vercel.app",
           process.env.VERCEL_PROJECT_PRODUCTION_URL
             ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
             : null,
